@@ -68,7 +68,6 @@ Examples include:
 - MQTT credentials
 - SSH tunnel configuration
 - PostgreSQL connection settings
-- file output paths
 
 ## License
 
